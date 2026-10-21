@@ -65,16 +65,16 @@
           <textarea id="message" class="form-input form-textarea" rows="5" placeholder="Write your message here..."></textarea>
         </div>
         <button class="btn-primary send-btn" onclick="sendEmail()">SEND MESSAGE →</button>
-        <p class="form-disclaimer">This opens your default email app (Gmail, Outlook, etc.) with the message pre-filled and addressed to terrynets.m@gmail.com.</p>
+        <p class="form-disclaimer">This opens your default email app (Gmail, Outlook, etc.) with the message pre-filled and addressed to terrynets.m@outlook.com.</p>
       </div>
 
       <!-- DIRECT LINKS -->
       <div class="contact-links-wrap">
         <div class="contact-links">
-          <a href="mailto:terrynets.m@gmail.com?subject=Let%27s%20Connect" class="contact-link-item">
+          <a href="mailto:terrynets.m@outlook.com?subject=Let%27s%20Connect" class="contact-link-item">
             <div>
               <div class="cl-label">EMAIL</div>
-              <div class="cl-value">terrynets.m@gmail.com</div>
+              <div class="cl-value">terrynets.m@outlook.com</div>
             </div>
             <span class="cl-arrow">↗</span>
           </a>
@@ -164,7 +164,7 @@ function sendEmail() {
     (email ? `\n${email}` : '')
   );
 
-  window.location.href = `mailto:terrynets.m@gmail.com?subject=${subject}&body=${body}`;
+  window.location.href = `mailto:terrynets.m@outlook.com?subject=${subject}&body=${body}`;
 }
 </script>
 </body>
