@@ -47,3 +47,22 @@ window.addEventListener('scroll', () => {
     nav.style.boxShadow = 'none';
   }
 });
+
+// Certificate lightbox
+(function () {
+  const box = document.getElementById('lightbox');
+  if (!box) return;
+  const img = box.querySelector('img');
+  const cap = box.querySelector('.lightbox-caption');
+  document.querySelectorAll('[data-lightbox]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      img.src = btn.dataset.lightbox;
+      img.alt = btn.dataset.caption || '';
+      cap.textContent = btn.dataset.caption || '';
+      box.classList.add('open');
+    });
+  });
+  const close = () => box.classList.remove('open');
+  box.addEventListener('click', close);
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') close(); });
+})();
