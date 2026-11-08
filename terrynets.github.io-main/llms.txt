@@ -6,13 +6,22 @@ Contact: terrynets.m@outlook.com
 LinkedIn: https://www.linkedin.com/in/mukovhe-netshivhale-447b65428/
 GitHub: https://github.com/terrynets
 Instagram: https://instagram.com/terrynets
-Level7Lab: https://level7labs.tech/ (TikTok @level7lab)
+Level7Lab website: https://level7labs.tech/
+TikTok: https://tiktok.com/@terrynets
+X (Twitter): https://x.com/terrynets21
+YouTube: https://www.youtube.com/@Terrynets
+Level7Lab Instagram: https://www.instagram.com/level7lab_/
+Level7Lab TikTok: https://tiktok.com/@level7lab
+Level7Lab Facebook: https://www.facebook.com/level7lab
+Level7Lab X (Twitter): https://x.com/level7lab
+Level7Lab YouTube: https://www.youtube.com/@Level7Labs
+Quanta Vision Afrika (collaboration, photography and videography): https://qvisionafrika.com/
 
 ## Pages
 - [Home](https://terrynets.github.io/): introduction and three focus areas (AI and software engineering, digital media and design, education and entrepreneurship)
 - [Certificates](https://terrynets.github.io/certificates.html): all certificates and awards held, with issuer, date, score and image
 - [Blueprint](https://terrynets.github.io/blueprint.html): Wits Year 1 modules, self-directed learning, target certifications, Meriti Secondary results
-- [Lab](https://terrynets.github.io/lab.html): active and queued projects
+- [Lab](https://terrynets.github.io/lab.html): completed projects (Level7Lab AI Study Assistant, SA University Course Tracker), active projects and queued work
 - [Log](https://terrynets.github.io/log.html): build-in-public updates
 - [Contact](https://terrynets.github.io/contact.html): internships, collaborations, scholarships, mentorship
 
