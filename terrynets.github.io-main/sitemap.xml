@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://terrynets.github.io/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://terrynets.github.io/lab.html</loc>
+    <lastmod>2026-11-08</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://terrynets.github.io/log.html</loc>
+    <lastmod>2026-11-08</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://terrynets.github.io/certificates.html</loc>
+    <lastmod>2026-11-08</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://terrynets.github.io/images/certificates/atf-ai-school-phase1-2026.jpg</image:loc>
+      <image:caption>AI School Certificate of Completion, Phase 1 of 2, ATF AI Challenge, November 2026</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://terrynets.github.io/images/certificates/geography-winter-camp-2025.jpg</image:loc>
+      <image:caption>Top Performing Learner: Geography, Grade 12 Winter Camp 2025</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://terrynets.github.io/images/certificates/mathematics-winter-camp-2025.jpg</image:loc>
+      <image:caption>Top Performing Learner: Mathematics, Grade 12 Winter Camp 2025</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://terrynets.github.io/images/certificates/merit-secondary-grade12-average.jpg</image:loc>
+      <image:caption>Grade 12 Academic Achievement Award, Meriti Secondary School, June 2025</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://terrynets.github.io/images/certificates/physical-sciences-winter-camp-2025.jpg</image:loc>
+      <image:caption>Top Performing Learner: Physical Sciences, Grade 12 Winter Camp 2025</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://terrynets.github.io/images/certificates/studytrust-winter-seminar-2026.jpg</image:loc>
+      <image:caption>StudyTrust Winter Seminar 2026: Ukuqonda Programme Certificate</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://terrynets.github.io/blueprint.html</loc>
+    <lastmod>2026-11-08</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://terrynets.github.io/contact.html</loc>
+    <lastmod>2026-11-08</lastmod>
+    <priority>0.7</priority>
+  </url>
+</urlset>
