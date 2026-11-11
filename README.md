@@ -1,20 +1,24 @@
-# MTN // Digital Headquarters
-### Mukovhe Terry Netshivhale · Personal Portfolio
+# Terrynets — Personal Portfolio
 
-Personal portfolio and digital headquarters.
-Built with HTML, CSS, and JavaScript.
+A static personal portfolio and digital headquarters for Mukovhe Terry Netshivhale. It introduces my work and interests in computer science, AI, data, and building projects.
 
-🔗 Live site: https://terrynets.github.io
+**Live site:** [terrynets.github.io](https://terrynets.github.io)
 
----
+## Site sections
 
-### Pages
-- **Home** — Introduction and focus areas
-- **Lab** — Active projects and work
-- **Log** — Weekly build log
-- **Blueprint** — Education and roadmap
-- **Contact** — Get in touch
+- `index.html` — home page and introduction
+- `lab.html` — projects and work
+- `log.html` — build log
+- `blueprint.html` — education and roadmap
+- `certificates.html` — certificates
+- `contact.html` — contact information
 
----
+The site is built with HTML, CSS, and JavaScript. Supporting files include `style.css`, `main.js`, image assets, icons, and search-engine files (`robots.txt`, `sitemap.xml`, and verification pages). GitHub Pages serves the site from this repository.
 
-Built and designed by Terry Netshivhale · Johannesburg, ZA
+## Local preview
+
+Because the site is static, open `index.html` in a browser or serve the repository directory with a local static web server. No build step or package installation is required by the files currently in the repository.
+
+## License
+
+MIT. See [`LICENSE`](LICENSE).
